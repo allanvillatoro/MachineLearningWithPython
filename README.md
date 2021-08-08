@@ -1,3 +1,3 @@
 # machinelearningwithpython
 
-IBM Machine Learning with Python Courses
+IBM Machine Learning with Python Labs
